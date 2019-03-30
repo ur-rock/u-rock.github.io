@@ -1372,7 +1372,7 @@ body {
 }
 .cid-rlIThKLIRO {
   padding-top: 15px;
-  padding-bottom: 120px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rlIThKLIRO [class^="socicon-"]:before,
@@ -1392,6 +1392,18 @@ body {
   .cid-rlIThKLIRO .btn {
     font-size: 20px !important;
   }
+}
+.cid-rmbRezzx0g {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rmbRezzx0g .mbr-text,
+.cid-rmbRezzx0g blockquote {
+  color: #767676;
+}
+.cid-rmbRezzx0g .mbr-text P {
+  text-align: center;
 }
 .cid-rlOv8eDmkd {
   padding-top: 75px;
